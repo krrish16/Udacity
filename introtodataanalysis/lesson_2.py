@@ -193,7 +193,7 @@ def reverse_names(names):
     return last_name+', '+first_name
 
 def reversed_name(names):
-    return names_reverse.apply(reverse_names)
+    return names_reverse. (reverse_names)
 
 rever = reversed_name(names_reverse)
 print (rever)
