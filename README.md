@@ -1,2 +1,2 @@
 # Udacity
-Udacity courses 
+Udacity course - Intro to data science
