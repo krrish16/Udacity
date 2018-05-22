@@ -1,2 +1,2 @@
 # Udacity
-Udacity course - Intro to data science
+Repo - Udacity course projects
