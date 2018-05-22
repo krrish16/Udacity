@@ -3,7 +3,7 @@
 
 Starter project code for students taking Udacity ud120
 
-#Setting up the Code
+# Setting up the Code
 Check that you have a working python installation, preferably version 2.6 or 2.7 (that’s the version that we use--other versions may work, but we can’t guarantee it). If you're using Python 3, you may find some more extensive revision of code to get things working at this time, so you may want to set up a Python 2 environment to work through the course materials.
 
 We will use pip to install some packages. First get and install pip from here. Using pip, install a bunch of python packages:
